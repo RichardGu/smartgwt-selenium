@@ -1,0 +1,6 @@
+How to run the demo:
+
+1. ~/tools/selenium/start-server.sh
+2. cd ~/oscgc/smartgwt-selenium/
+3. mvn test
+4. Testing on: http://smartclient.com/#FSsingleSourceValidation http://smartclient.com/#columnOrder
